@@ -1,0 +1,29 @@
+{
+  "company": {
+    "name": "شركة شاهق للاستشارات الهندسية والتطوير العقاري",
+    "description": "نحن نوفر حلول هندسية متميزة وخدمات تطوير عقاري وفق أعلى المعايير العالمية.",
+    "phone": ["+963 988594494", "+963 982700010"],
+    "email": "contact@shahek.net",
+    "address": "سوريا، ريف دمشق، طريق درعا، جانب كازية البارودي"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crown Villa",
+      "description": "فيلا فاخرة بتصميم حديث ومرافق متكاملة.",
+      "image": "https://shahek.org/wp-content/uploads/2025/xx/crown-villa.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Shopping Mall",
+      "description": "مول تجاري حديث يجمع بين التسوق والترفيه.",
+      "image": "https://shahek.org/wp-content/uploads/2025/xx/shopping-mall.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Villa Yafour",
+      "description": "فيلا في منطقة يافر بمساحات واسعة وإطلالات مميزة.",
+      "image": "https://shahek.org/wp-content/uploads/2025/xx/villa-yafour.jpg"
+    }
+  ]
+}
